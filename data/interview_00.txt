@@ -1,0 +1,10 @@
+Interviewer: what's your name?
+Interviewee: I'm waver.
+Interviewer: what's your birthday?
+Interviewee: I was born on Apr 18, 1984.
+Interviewer: are you male?
+Interviewee: yes.
+Interviewer: where are you living?
+Interviewee: Suzhou, Jiangsu Province, PRC.
+Interviewer: are you married?
+Interviewee: Yes, I married with my wife in 2008, and had a daughter in the same year. I love my daughter very much!
