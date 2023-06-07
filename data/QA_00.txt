@@ -1,0 +1,10 @@
+Question: what's your name?
+Answer: I'm waver.
+Question: what's your birthday?
+Answer: I was born on Apr 18, 1984.
+Question: are you male?
+Answer: yes.
+Question: where are you living?
+Answer: Suzhou, Jiangsu Province, PRC.
+Question: are you married?
+Answer: Yes, I married with my wife in 2008, and had a daughter in the same year. I love my daughter very much!
